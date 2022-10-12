@@ -2,6 +2,20 @@
 
 
 ## GitHub Profile Stats
+
+```
+lucasreis10@github
+-------------------------
+💻 I am a Software Engineer
+📝 I have a strong interest in Software Architecture
+🔭 Working on Software Development as FullStack 
+🌱 Learning about Software Architecture
+🌟 Main languages: Java, JavaScript & Kotlin
+:coffee: Love coffee, anime & table tennis
+```
+<hr>
+
+
  <div align="center">
    
   <br/>
