@@ -1,4 +1,4 @@
-### Hi there I'm Lucas Reis 👋
+# Hi there I'm Lucas Reis 👋
 
 
 ## GitHub Profile Stats
