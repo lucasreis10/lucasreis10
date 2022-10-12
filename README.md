@@ -1,7 +1,6 @@
 # Hi there I'm Lucas Reis 👋
 
 
-## GitHub Profile Stats
 
 ```
 lucasreis10@github
@@ -11,10 +10,11 @@ lucasreis10@github
 🔭 Working on Software Development as FullStack 
 🌱 Learning about Software Architecture
 🌟 Main languages: Java, JavaScript & Kotlin
-:coffee: Love coffee, anime & table tennis
+☕ Love coffee, anime & table tennis
 ```
 <hr>
 
+## GitHub Profile Stats
 
  <div align="center">
    
