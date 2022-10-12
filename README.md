@@ -12,7 +12,7 @@
 
 ## Streak Stats
 <div align="center"> 
- <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=7oSkaaa&theme=algolia" alt="7oSkaaa" /></p>
+ <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=lucasreis10&theme=react&hide_border=true&bg_color=0D1117" alt="lucasreis10" /></p>
 </div>
 
 <div align="center" style="display: inline_block"><br>
