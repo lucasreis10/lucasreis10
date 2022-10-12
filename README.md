@@ -6,7 +6,10 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucasreis10&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasreis10&layout=compact&langs_count=7&theme=dark"/>  
   
-  | ![Github Stars](https://github-readme-stats.vercel.app/api?username=I-am-lucasreis10&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=algolia) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasreis10&langs_count=8&theme=algolia&layout=compact) |
+<br/>
+    <a href="https://github.com/Chaitanya-Pratap-Singh/github-readme-stats"><img alt="Chaitanya-Pratap-Singh's Github Stats" src="https://github-readme-stats.vercel.app/api?username=lucasreis10&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/lucasreis10/github-readme-stats"><img alt="Chaitanya-Pratap-Singh's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasreis10&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <br/>
 
 </div>
   
