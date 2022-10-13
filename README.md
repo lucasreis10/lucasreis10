@@ -7,7 +7,7 @@ lucasreis10@github
 -------------------------
 💻 I am a Software Engineer
 📝 I have a strong interest in Software Architecture
-🔭 Working on Software Development as FullStack 
+🔭 Working on Software Development as Software Architect 
 🌱 Learning about Software Architecture
 🌟 Main languages: Java, JavaScript & Kotlin
 ☕ Love coffee, anime & table tennis
