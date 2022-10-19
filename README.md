@@ -6,9 +6,9 @@
 lucasreis10@github
 -------------------------
 I am a Software Engineer
-I have a strong interest in Software Architecture
+I have a strong interest in Software Architecture and Cloud Technologies
 Working on Software Development as Software Architect 
-Learning about Software Architecture
+Learning about Software Architecture and Cloud
 Main languages: Java, JavaScript & Kotlin
 Love coffee, anime & table tennis
 ```
